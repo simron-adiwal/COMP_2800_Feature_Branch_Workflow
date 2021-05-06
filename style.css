@@ -1,6 +1,7 @@
 body {
     font-family: Calibri, "Segoe UI", Arial, sans-serif;
 }
+<<<<<<< HEAD
 
 h1 {
     text-align: center;
@@ -10,4 +11,14 @@ h1 {
     margin: 0 auto;
     width: 800px;
     text-align: center;
+=======
+.content {
+ margin: 0 auto;
+ width: 800px;
+ text-align: center;
+}
+
+.clickable {
+    cursor:hand;
+>>>>>>> SimronTheOwner_Adiwal_feature5
 }
